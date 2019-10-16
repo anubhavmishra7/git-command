@@ -13,5 +13,3 @@ git reset --hard <commit> : reset the repository to a given commit
 git reset --hard origin/master : reset the repository to its original state (e.g. the version cloned from GitHub)
 git branch : list all the branches currently in a repository
 git branch <name> : create a new branch called name
-git checkout <name> : switch current working branch to name
-git merge <source branch><target branch> : Merge a branch into a target branch
